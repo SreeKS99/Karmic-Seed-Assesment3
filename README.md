@@ -1,1 +1,11 @@
-# Karmic-Seed-Assesment3
+
+# Karmic Seed – Pricing Strategy Framework
+
+This repository contains a complete pricing strategy project including:
+- Python pricing engine
+- Analysis notebook
+- Pricing appendix
+- Pricing playbook
+- Executive presentation
+
+The framework replaces reactive pricing with rule-based, data-driven decisions.
