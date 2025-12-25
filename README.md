@@ -8,4 +8,4 @@ This repository contains a complete pricing strategy project including:
 - Pricing playbook
 - Executive presentation
 
-The framework replaces reactive pricing with rule-based, data-driven decisions.
+The framework views reactive pricing with rule-based, data-driven decisions.
